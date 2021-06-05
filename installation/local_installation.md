@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Local Installation
+title: Local Installation (Linux)
 parent: Installation Instructions
 nav_order: 2
 ---
