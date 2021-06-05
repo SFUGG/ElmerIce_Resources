@@ -16,3 +16,7 @@ permalink: /postprocessing
 For structured meshes, `meshio` in conjunction with `xarray` allow for reading in
 of `.vtu` files into `python`. These packages are also useful concatenating multiple
 `.vtu` files into a NetCDF (`.nc`) file.
+
+\\[
+    \binom{n}{k} = \frac{n!}{k!(n-k)!}
+\\]
